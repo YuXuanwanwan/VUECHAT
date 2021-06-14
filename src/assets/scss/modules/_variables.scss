@@ -1,6 +1,6 @@
 @import "defaults";
 
-$primary: $slate-blue !default;
+$primary: #f3f6fd !default;
 $secondary: $lavender !default;
 
 $header-color: $ghost-white !default;
@@ -17,6 +17,6 @@ $light-text-color: $ghost-white !default;
 $dark-bg: $madison !default;
 $light-bg: $white !default;
 
-$window-width: $base-window-width !default;
-$window-height: $base-window-height !default;
+$window-width: 630px !default;
+$window-height: 650px !default;
 $message-max-width: $base-message-max-width !default;
